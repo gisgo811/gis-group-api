@@ -1,0 +1,6 @@
+{
+    "connection": "mongodb://admin:GreenGIS123456@localhost:37020,localhost:37018/gisgroup?replicaSet=sw&authSource=admin",
+    "port": "4000",
+    "client": "81bb668c967d44ec26a3",
+    "secret": "c1f480c2e040aa5c3e269a8891b4126aceb08054"
+}
